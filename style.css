@@ -1,0 +1,11 @@
+#score{
+ font-size: large;
+ float:left;
+}
+#time{
+ font-size: large;
+ float:right;
+}
+#sketch_drawn{
+    color:blue
+}
